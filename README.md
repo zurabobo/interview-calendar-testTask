@@ -1,4 +1,4 @@
-# [Demo on Netlify](https://welbex-testtask.netlify.app/)
+# [Demo on Netlify](https://interview-calendar-testtak.netlify.app/)
 # interview-calendar
 ## Веб приложение с недельным календарем
 Задача: 
