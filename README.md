@@ -4,8 +4,8 @@
 Нужно реализовать статичное веб приложение (SPA) используя create-react-app, React, styled-components и выложить его на Heroku.
 Макеты c версткой календаря для мобильных браузеров:
 * [Main Mobile](/src/task/1.%20Main%20Mobile%402x.png) - Основной вид календаря.
-* [Delete Mobile](./2.%20Delete%20Mobile@2x.png) - После выбора события, появляется кнопка Delete.
-* [Add Mobile](./3.%20Add%20Mobile@2x.png) - После нажатия `+` появляется стандартный попап (функция `prompt`) добавления события.
+* [Delete Mobile](/src/task/2.%20Delete%20Mobile%402x.png) - После выбора события, появляется кнопка Delete.
+* [Add Mobile](/src/task/3.%20Add%20Mobile%402x.png) - После нажатия `+` появляется стандартный попап (функция `prompt`) добавления события.
 Для ширины страницыь статичное календарь равномерно растягивается. Для ширины страницыьным календширина календаряview-calend календарь выравнивантвается по горизонтали по центру страницы.
 
 #Подробное задание: https://drive.google.com/file/d/1R_2q7mTiRfCZcMv-QcuntqYxDC7HtUwh/view?usp=sharing
